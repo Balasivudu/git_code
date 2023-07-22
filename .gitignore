@@ -1,0 +1,48 @@
+file1
+file2
+file3
+file4
+
+git status
+
+
+
+
+
+
+
+
+
+
+		[D[A[A[A[A[A[A[A[A[A[A[A[D[A[A[C[C[C[C[C
+
+[A[A[C[C[C[C[C
+[A[D[C[C[C[C[C
+
+[A[A[C[C[C[C[C
+
+
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C											[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[C[C[C[C[C
+file4.
+
+[A[A[C[C[C[C[C[[C[B[A[D
+
+[D[D[D[D[D[D[D[D[D[D[A[A[C[C[C[C[C[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+
+git status
+
+touch file 1
+
+
+
+[A[A[A[A[C[C[C[C[C[C[A[A[C[C[C[C[[A[A[C[C[C[C[C
+.
+[A
